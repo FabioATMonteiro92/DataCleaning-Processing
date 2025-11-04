@@ -1,29 +1,8 @@
-# === Python ===
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.so
+# Local data — allow small sample files in these folders
+# (We still ignore other random data paths)
+data/                # keep ignoring a generic data folder if you create one
+# Do NOT ignore CSV/XLSX globally anymore
 
-# === Jupyter Notebooks ===
-.ipynb_checkpoints/
-
-# === Virtual environments ===
-.venv/
-env/
-venv/
-
-# === Local data (big files) ===
-data/
-*.csv
-*.xlsx
-*.xls
-*.xlsb
-*.zip
-
-# === System files ===
-.DS_Store
-Thumbs.db
-
-# === VS Code ===
-.vscode/
+# If you ever add big raw dumps elsewhere, ignore them specifically:
+# raw_data/
+# *.parquet
