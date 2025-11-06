@@ -431,7 +431,6 @@ SD_df_excel_data_part.columns = ['participant', 'Subject_Nr', 'Session_Nr', 'Dat
 
 ##Organiza os registos pelo número de participante e número de sessão (por ordem ascendente).
 SD_df_excel_data_part.sort_values(by=['Session_Nr'], kind='mergesort', inplace=True,ascending=True)
-SD_df_excel_data_part.sort_values(by=['Subject_Nr'], kind='mergesort', inplace=True,ascending=True)
 SD_df_excel_data_part.reset_index(drop=True,inplace=True)
 
 ##Subsitui valores númericos que codificam um certo label, pelo label correto.
@@ -497,7 +496,6 @@ for i in range(0,len(temp_diff_ris_sleep)):
     aaa = (str(temp_diff_ris_sleep[i]))
     aaa = aaa[-8:-3]
     temp_diff_ris_sleep[i] = aaa
-#    temp_diff_ris_sleep[i] = temp_diff_ris_sleep[i][7:12]
 
 temp_TST = []
 TST_for_DSE = []
@@ -1314,8 +1312,6 @@ for i in range(0, len(full_path_files)):
     df_total_part = df_total_part.append(df)
 
 df_total_part.reset_index(inplace=True)
-
-#Substitui dados que deviam estar listados como missing values ('undefined'), por missing values ('Nan')
 
 #Puxa a coluna com o nome da tarefa que foi realizado neste ensaio e número do participante para a primeira e
 #segunda coluna respetivamente.
