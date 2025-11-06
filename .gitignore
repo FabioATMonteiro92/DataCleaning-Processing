@@ -5,4 +5,12 @@ data/                # keep ignoring a generic data folder if you create one
 
 # If you ever add big raw dumps elsewhere, ignore them specifically:
 # raw_data/
-# *.parquet
+# *.parquet.idea/
+**/.ipynb_checkpoints/
+*.xlsx
+*.xls
+*.tmp
+Thumbs.db
+.DS_Store
+NUL
+nul
