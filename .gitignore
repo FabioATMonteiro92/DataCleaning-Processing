@@ -16,3 +16,12 @@ NUL
 nul
 **/.ipynb_checkpoints/
 *.ipynb_checkpoints/
+.idea/
+**/.ipynb_checkpoints/
+*.xlsx
+*.xls
+*.tmp
+Thumbs.db
+.DS_Store
+NUL
+nul
