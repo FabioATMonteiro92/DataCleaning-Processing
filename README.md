@@ -37,7 +37,7 @@ Tasks included:
 •	**The binding and maintenance task** assessing the capacity to **bind elements into coherent structures**.
 
 
-### Participants & screening
+### Screening of Participants
 Eligible participants were Portuguese adults (aged between 18 and 35) with at least a high-school diploma and moderate chronotype (indifferent, moderately morning, or moderately evening). 
 
 Exclusions covered psychiatric, sleep, neurological conditions, and clinically significant symptoms. 
@@ -45,13 +45,14 @@ Exclusions covered psychiatric, sleep, neurological conditions, and clinically s
 To ensure that the participants met the inclusion/exclusion criteria, they completed a sociodemographic questionnaire, along with the Portuguese versions of the Brief Symptom Inventory and the Morningness-Eveningness Questionnaire on an online platform (Psytoolkit).
 
 
-### Protocol controls
+### Preparatory Phase
 From the moment they were accepted into the study until the completion of the experimental procedures, participants **maintained a regular sleep schedule (23:00–01:00 sleep onset; 07:00–09:00 wake)**, limited **caffeine (≤3/day)** and **alcohol (≤2/day) intake**, and **avoided sleep aids**. 
 
 Compliance was monitored via **sleep and activity diaries** (completed in Psytoolkit) and **actigraphy** (worn on the wrist of the non-dominant hand). 
 
 After five days in this regime, participants completed a **practice session** to minimize potential learning effects. 
 
+### ToD Protocol
 The day after the practice session, participants **completed the five WM tasks in four sessions held at different ToD**: morning (09:00 h), midday (13:00 h), afternoon (17:00 h), and evening (21:00 h). 
 
 
