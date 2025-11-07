@@ -31,23 +31,32 @@ The day after the practice session, participants completed the five WM tasks in 
 
 ## Data sources
 •	Online questionnaires (Psytoolkit).
+
 •	Sleep and daily logs (Psytoolkit).
+
 •	Actigraphy (actigraph worn on non-dominant wrist).
+
 •	WM tasks (programmed in Python and run on local platform).
 
 ## What you’ll find here
 For demonstration, we include an anonymized subset (n = 4). The pipeline:
+
 •	Merges heterogeneous sources, 
+
 •	Aligns timestamps, standardizes variable names, computes trial- and aggregate-level metrics,
+
 •	Exports tidy, analysis-ready datasets
 
 ## How to run
 •	Click the Binder badge at the bottom of this section. 
+
 •	Once Binder is launched, execute cells with Ctrl/Cmd + Enter.
+
 •	Locally: download the .py script “Data_Cleaning_Chrono.py” and run with a local Python 3 environment. 
 
 ### Notes
 •	All data are de-identified.
+
 •	This notebook focuses on processing and reproducibility; inferential results are out of scope for this portfolio demo.
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabioATMonteiro92/DataCleaning-Processing/HEAD?labpath=notebook%2F01_data_processing_script.ipynb)
