@@ -21,7 +21,7 @@ Tasks included:
 
 •	**The working memory updating task** measuring the ability to **update mental representations**.
 
-•	The **binding and maintenance task** assessing the capacity to **bind elements into coherent structures**.
+•	**The binding and maintenance task** assessing the capacity to **bind elements into coherent structures**.
 
 
 ### Participants & screening
