@@ -59,7 +59,7 @@ For demonstration, we include an anonymized subset (*n* = 4). The pipeline:
 
 •	Aligns timestamps, standardizes variable names, computes trial- and aggregate-level metrics,
 
-•	Exports tidy, analysis-ready datasets
+•	Exports tidy, analysis-ready datasets.
 
 
 ## How to run
