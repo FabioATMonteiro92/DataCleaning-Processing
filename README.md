@@ -25,7 +25,11 @@ Tasks included:
 
 
 ### Participants & screening
-Eligible participants were Portuguese adults (aged between 18 and 35) with at least a high-school diploma and moderate chronotype (indifferent, moderately morning, or moderately evening). Exclusions covered psychiatric, sleep, neurological conditions, and clinically significant symptoms. To ensure that the participants met the inclusion/exclusion criteria, they completed a sociodemographic questionnaire, along with the Portuguese versions of the Brief Symptom Inventory and the Morningness-Eveningness Questionnaire on an online platform (Psytoolkit).
+Eligible participants were Portuguese adults (aged between 18 and 35) with at least a high-school diploma and moderate chronotype (indifferent, moderately morning, or moderately evening). 
+
+Exclusions covered psychiatric, sleep, neurological conditions, and clinically significant symptoms. 
+
+To ensure that the participants met the inclusion/exclusion criteria, they completed a sociodemographic questionnaire, along with the Portuguese versions of the Brief Symptom Inventory and the Morningness-Eveningness Questionnaire on an online platform (Psytoolkit).
 
 
 ### Protocol controls
