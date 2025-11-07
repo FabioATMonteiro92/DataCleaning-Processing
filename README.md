@@ -8,9 +8,13 @@ We assessed whether functional components of WM exhibit independent variations i
 
 ## Design & tasks
 Participants completed four sessions in a within-subject, repeated-measures design at 09:00, 13:00, 17:00, and 21:00.
+
 Tasks included:
+
 •	Complex spans (Reading, Operation, Symmetry) indexing concurrent storage + processing in verbal, numeric, and visuospatial domains.
+
 •	The working memory updating task measuring the ability to update mental representations.
+
 •	The binding and maintenance task assessing the capacity to bind elements into coherent structures.
 
 ### Participants & screening
