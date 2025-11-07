@@ -7,6 +7,13 @@
 ## What this notebook does
 This notebook demonstrates a reproducible **data-processing pipeline** for a study on **time-of-day (ToD) effects in working memory (WM)**. It ingests multi-source data, performs cleaning and harmonization, and outputs analysis-ready tables for downstream statistical modeling.
 
+This script produces an excel file, containing multiple sheets/databases. These databases/sheets contain the following information:
+**1. Screening**: 
+**2. Sleep Diary**:
+**3. Acitivity Diary**:
+**4. Actigraphy**: 
+**5. WM tasks Practice**:
+**6. WM tasks Experimental**:
 
 ## Study aim
 We assessed **whether functional components of WM exhibit independent variations in performance across the day**. Specifically, we examined **accuracy** and **reaction time (RT)** across classes of WM tasks with distinct functional demands.
