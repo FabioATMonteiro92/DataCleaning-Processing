@@ -9,17 +9,17 @@ This notebook demonstrates a reproducible **data-processing pipeline** for a stu
 
 This script produces an excel file, containing multiple sheets/databases. These databases/sheets contain the following information:
 
-**1. Screening**: includes information that was used to evaluate whether participants met the study’s inclusion and exclusion criteria.
+**1. Screening database**: includes information that was used to evaluate whether participants met the study’s inclusion and exclusion criteria.
 
-**2. Sleep Diary**:
+**2. Sleep Diary database**: includes information that was used to evaluate whether participants complied with the study’s mandatory sleep schedule.
 
-**3. Acitivity Diary**:
+**3. Acitivity Diary database**: includes information that was used to evaluate whether participants complied with the study’s mandatory restrictions.
 
-**4. Actigraphy**: 
+**4. Actigraphy database**: 
 
-**5. WM tasks Practice**:
+**5. WM tasks Practice database**:
 
-**6. WM tasks Experimental**:
+**6. WM tasks Experimental database**:
 
 ## Study aim
 We assessed **whether functional components of WM exhibit independent variations in performance across the day**. Specifically, we examined **accuracy** and **reaction time (RT)** across classes of WM tasks with distinct functional demands.
