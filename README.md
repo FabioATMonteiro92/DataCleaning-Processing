@@ -1,8 +1,11 @@
 Presentation
+
 What this notebook does
 This notebook demonstrates a reproducible data-processing pipeline for a study on time-of-day (ToD) effects in working memory (WM). It ingests multi-source data, performs cleaning and harmonization, and outputs analysis-ready tables for downstream statistical modeling.
+
 Study aim
 We assessed whether functional components of WM exhibit independent variations in performance across the day. Specifically, we examined accuracy and reaction time (RT) across classes of WM tasks with distinct functional demands.
+
 Design & tasks
 Participants completed four sessions in a within-subject, repeated-measures design at 09:00, 13:00, 17:00, and 21:00.
 Tasks included:
