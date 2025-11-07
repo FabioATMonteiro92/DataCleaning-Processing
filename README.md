@@ -9,7 +9,7 @@ This notebook demonstrates a reproducible **data-processing pipeline** for a stu
 
 This script produces an excel file, containing multiple sheets/databases. These databases/sheets contain the following information:
 
-**1. Screening**: 
+**1. Screening**: includes information that was used to evaluate whether participants met the study’s inclusion and exclusion criteria.
 
 **2. Sleep Diary**:
 
