@@ -1,3 +1,6 @@
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabioATMonteiro92/DataCleaning-Processing/HEAD?labpath=notebook%2F01_data_processing_script.ipynb)
+
+
 # Presentation
 
 
@@ -56,7 +59,7 @@ For demonstration, we include an anonymized subset (*n* = 4). The pipeline:
 
 
 ## How to run
-•	Click the **Binder badge at the bottom of this section**. 
+•	Click the **Binder badge at the top of this section**. 
 
 •	Once Binder is launched, execute cells with **Ctrl/Cmd + Enter**.
 
@@ -67,7 +70,3 @@ For demonstration, we include an anonymized subset (*n* = 4). The pipeline:
 •	All data are **de-identified**.
 
 •	This notebook focuses on **data processing**; inferential results are out of scope for this portfolio demo.
-
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabioATMonteiro92/DataCleaning-Processing/HEAD?labpath=notebook%2F01_data_processing_script.ipynb)
-
-
