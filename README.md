@@ -83,6 +83,7 @@ For demonstration, we include an anonymized subset (*n* = 4). The pipeline:
 
 •	Locally: download the .py script “Data_Cleaning_Chrono.py” and run with a local Python 3 environment. 
 
+*Note:* Binder may take some time to launch the notebook on the first load, as it needs to build the execution environment. Please be patient. If the session hangs for too long, simply close the tab and relaunch Binder.
 
 ### Notes
 •	All data are **de-identified**.
