@@ -79,7 +79,7 @@ For demonstration, we include an anonymized subset (*n* = 4). The pipeline:
 ## How to run
 •	Click the **Binder badge at the top of this section**. 
 
-•	Once Binder is launched, execute cells with **Ctrl/Cmd + Enter**.
+•	Once Binder is launched, execute cells by pressing **Ctrl/Cmd + Enter**.
 
 •	Locally: download the .py script “Data_Cleaning_Chrono.py” and run with a local Python 3 environment. 
 
