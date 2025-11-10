@@ -15,11 +15,11 @@ This script produces an excel file, containing multiple sheets/databases. These 
 
 **3. Acitivity Diary database**: includes information that was used to evaluate whether participants complied with the study’s mandatory restrictions.
 
-**4. Actigraphy database**: 
+**4. Actigraphy database**: Contains sleep–wake activity data derived from wrist-worn actigraphs. This information was used to evaluate whether participants complied with the study’s mandatory sleep schedule.
 
-**5. WM tasks Practice database**:
+**5. WM tasks Practice database**: Includes performance data collected during the practice session of the Working Memory (WM) tasks. This database contains both raw and normalized metrics for all five WM tasks: Reading Span, Operation Span, Symmetry Span, the Working Memory Updating Task, and the Binding and Maintenance Task.
 
-**6. WM tasks Experimental database**:
+**6. WM tasks Experimental database**: Includes performance data collected during the four experimental sessions (09:00h;13:00h;17:00h;21:00h) of the Working Memory (WM) tasks. This database contains both raw and normalized metrics for all five WM tasks: Reading Span, Operation Span, Symmetry Span, the Working Memory Updating Task, and the Binding and Maintenance Task.
 
 ## Study aim
 We assessed **whether functional components of WM exhibit independent variations in performance across the day**. Specifically, we examined **accuracy** and **reaction time (RT)** across classes of WM tasks with distinct functional demands.
