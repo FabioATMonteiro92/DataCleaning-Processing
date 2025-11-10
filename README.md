@@ -30,7 +30,7 @@ Participants completed **four sessions** in a within-subject, repeated-measures 
 
 Tasks included:
 
-•	**Complex spans** (Reading, Operation, Symmetry) indexing **concurrent storage + processing** in **verbal, numeric, and visuospatial** domains.
+•	**Complex spans** (Reading, operation, and symmetry span) indexing **concurrent storage + processing** in **verbal, numeric, and visuospatial** domains.
 
 •	**The working memory updating task** measuring the ability to **update mental representations**.
 
